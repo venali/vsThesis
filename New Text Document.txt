@@ -1,0 +1,13 @@
+Top securities:
+https://www.nseindia.com/live_market/dynaContent/live_analysis/most_active_securities.htm
+
+Selected:
+1. YESBANK
+about security: https://www.nseindia.com/live_market/dynaContent/live_watch/get_quote/GetQuote.jsp?symbol=YESBANK
+2. SBIN
+about security: https://www.nseindia.com/live_market/dynaContent/live_watch/get_quote/GetQuote.jsp?symbol=SBIN
+3. INDUSINDBK
+about security: https://www.nseindia.com/live_market/dynaContent/live_watch/get_quote/GetQuote.jsp?symbol=INDUSINDBK
+
+Historic data link:
+https://www.nseindia.com/products/content/equities/equities/eq_security.htm
